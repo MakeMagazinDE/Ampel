@@ -18,4 +18,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 ## Übersicht // Overview
 
-![Systematik](/Images/Systematik.PNG)
+![Systematik](/Images/StandaloneCO2_TWAM.jpg)
